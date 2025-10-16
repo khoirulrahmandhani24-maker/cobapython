@@ -1,2 +1,2 @@
 # cobapython
-csyang
+day 1 saya belajar py
